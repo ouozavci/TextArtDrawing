@@ -4,5 +4,7 @@ After you compile it with java run the .class file and enter the file path of an
 This program will give you a text file it looks like your photo. In java file you can change 
 static newH and newW variables to increase or decrease the resolution.
 
-Programmed by Oğuzhan Özavcı.
 
+You can see examples here: http://oguzhanozavci.home.anadolu.edu.tr/art.html
+
+Programmed by Oğuzhan Özavcı.
