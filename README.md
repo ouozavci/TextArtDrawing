@@ -7,6 +7,7 @@ static newH and newW variables to increase or decrease the resolution.
 Programmed by Oğuzhan Özavcı.
 
 Here is an Example
+<p style='font-size:50%; font-family:monospace;line-height:120%; background:white; color:black; text-align:left'>
 ,..........,.,,,,,...,,.,,,,,,;++,;+@00@@WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW@W0WWWWW@Wo+++,;+;,,;,,;;,;;;;,;;;;;+;;++;++<br>
 .........,...,,..,,..,,,,..,,o,++W0Wo@WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW@oWWWWWWWW0+o;,,,,,+,;;,,;;;;,,,,;;;;+;++++;<br>
 ......................,;;+++WW@WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW@WW00+,;;;+;,;,;;;;;,,,,;;;;;;;+;;;;+<br>
@@ -57,3 +58,4 @@ Here is an Example
 ...................,o@@00o,.o0.....@0,+,.,;;;,,+o0000000000000000000000000@0+;....+......;00000000000000000000000000000o<br>
 ....................0+....,@0@@0...0+0;o....,,.,;o000000000000000000000000@0o+...........00000000000000000000000000000oo<br>
 .........................@@.0o;0,0.o,..0++o..,...;+000oooo0000000000000000000,..........,..+00000000000000000o000o00oooo<br> 
+</p>
