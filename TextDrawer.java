@@ -15,8 +15,8 @@ import com.sun.prism.Image;
 
 public class TextDrawer {
 	
-	static int newW = 70;
-	static int newH = 30;
+	static int newW = 50;
+	static int newH = 20;
 
 	public static void main(String[] args){
 		System.out.println("Enter file path of the image:");
